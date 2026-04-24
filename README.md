@@ -50,3 +50,10 @@ The next improvement direction is to make the model more **face-aware** by incor
 
 ## Note
 The full CelebA dataset is not uploaded to this repository due to size limitations.
+## Sample Outputs
+
+### LR vs SR vs HR Comparison
+![LR vs SR vs HR Comparison](lr_sr_hr_comparison.png)
+
+### Training vs Validation Loss Curve
+![Training vs Validation Loss Curve](training%20vs%20validation%20loss%20curve.png)
